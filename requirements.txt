@@ -1,0 +1,7 @@
+Flask
+pandas
+praw
+sqlalchemy
+psycopg2-binary
+google-search-python # Si vous utilisez l'outil google_search
+gunicorn # Serveur WSGI pour Flask sur Render
